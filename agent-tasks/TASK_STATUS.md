@@ -34,7 +34,7 @@
 
 - [x] **T14** — Home Page
 - [x] **T15** — About Page
-- [~] **T16** — Services Page
+- [x] **T16** — Services Page
 - [x] **T17** — Clients & Testimonials Page
 - [x] **T18** — Contact Page & Form
 - [x] **T19** — 404 Page
