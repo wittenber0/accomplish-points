@@ -19,7 +19,7 @@ export default function RootLayout({
           Skip to main content
         </a>
         <Header />
-        <main id="main-content">
+        <main id="main-content" className="pt-16 lg:pt-20">
           {children}
         </main>
         <Footer />

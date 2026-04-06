@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Image from 'next/image'
 import { SectionHeading } from '@/components/ui/SectionHeading'
 import { CredentialBadge } from '@/components/ui/CredentialBadge'
 import { CallToAction } from '@/components/sections/CallToAction'
@@ -128,15 +129,29 @@ export default function ServicesPage() {
       {/* Section 1: Overview */}
       <section className="bg-brand-cream py-14 lg:py-20">
         <div className="mx-auto max-w-container px-6 md:px-8 lg:px-12">
-          <SectionHeading level="h1" withRule>
-            Services
-          </SectionHeading>
-          <p className="mt-6 max-w-prose text-body text-brand-slate/80">
-            All services are customized and scoped for each client. Whether
-            navigating complex multi-stakeholder processes or focused
-            single-issue engagements, every partnership begins with
-            understanding your needs, your people, and your goals.
-          </p>
+          <div className="grid gap-10 lg:grid-cols-2 lg:gap-16 lg:items-center">
+            <div>
+              <SectionHeading level="h1" withRule>
+                Services
+              </SectionHeading>
+              <p className="mt-6 max-w-prose text-body text-brand-slate/80">
+                All services are customized and scoped for each client. Whether
+                navigating complex multi-stakeholder processes or focused
+                single-issue engagements, every partnership begins with
+                understanding your needs, your people, and your goals.
+              </p>
+            </div>
+            <div className="relative aspect-[4/3] overflow-hidden rounded">
+              <Image
+                src="/images/work/indoor-session.jpg"
+                alt="Working session with participants collaborating at a conference table"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                priority
+              />
+            </div>
+          </div>
         </div>
       </section>
 
