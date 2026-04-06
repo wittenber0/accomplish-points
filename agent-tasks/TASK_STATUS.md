@@ -42,4 +42,4 @@
 ## Phase 5 — Polish
 
 - [x] **T20** — Image Selection & Placeholders
-- [ ] **T21** — SEO, Accessibility & Deployment
+- [x] **T21** — SEO, Accessibility & Deployment
