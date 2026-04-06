@@ -17,17 +17,17 @@
 
 ## Phase 2 — UI Components
 
-- [ ] **T05** — Button Component
-- [ ] **T06** — SectionHeading Component
-- [ ] **T07** — TestimonialCard Component
-- [ ] **T08** — ServiceCard Component
-- [ ] **T09** — CredentialBadge Component
+- [x] **T05** — Button Component
+- [x] **T06** — SectionHeading Component
+- [x] **T07** — TestimonialCard Component
+- [~] **T08** — ServiceCard Component
+- [x] **T09** — CredentialBadge Component
 - [ ] **T10** — CallToAction Section Component
 
 ## Phase 3 — Layout
 
 - [ ] **T11** — Header & Navigation (Desktop + Mobile)
-- [ ] **T12** — Footer
+- [~] **T12** — Footer
 - [ ] **T13** — Root Layout
 
 ## Phase 4 — Pages
