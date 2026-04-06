@@ -28,7 +28,7 @@
 
 - [x] **T11** — Header & Navigation (Desktop + Mobile)
 - [x] **T12** — Footer
-- [ ] **T13** — Root Layout
+- [x] **T13** — Root Layout
 
 ## Phase 4 — Pages
 
