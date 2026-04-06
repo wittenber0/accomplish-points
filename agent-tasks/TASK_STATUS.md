@@ -20,14 +20,14 @@
 - [x] **T05** — Button Component
 - [x] **T06** — SectionHeading Component
 - [x] **T07** — TestimonialCard Component
-- [~] **T08** — ServiceCard Component
+- [x] **T08** — ServiceCard Component
 - [x] **T09** — CredentialBadge Component
-- [ ] **T10** — CallToAction Section Component
+- [x] **T10** — CallToAction Section Component
 
 ## Phase 3 — Layout
 
-- [ ] **T11** — Header & Navigation (Desktop + Mobile)
-- [~] **T12** — Footer
+- [x] **T11** — Header & Navigation (Desktop + Mobile)
+- [x] **T12** — Footer
 - [ ] **T13** — Root Layout
 
 ## Phase 4 — Pages
