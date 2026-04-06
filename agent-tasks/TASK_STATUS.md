@@ -32,12 +32,12 @@
 
 ## Phase 4 — Pages
 
-- [ ] **T14** — Home Page
+- [~] **T14** — Home Page
 - [ ] **T15** — About Page
-- [ ] **T16** — Services Page
-- [ ] **T17** — Clients & Testimonials Page
-- [ ] **T18** — Contact Page & Form
-- [ ] **T19** — 404 Page
+- [~] **T16** — Services Page
+- [~] **T17** — Clients & Testimonials Page
+- [~] **T18** — Contact Page & Form
+- [x] **T19** — 404 Page
 
 ## Phase 5 — Polish
 
