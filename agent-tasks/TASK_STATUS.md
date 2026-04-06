@@ -33,9 +33,9 @@
 ## Phase 4 — Pages
 
 - [~] **T14** — Home Page
-- [ ] **T15** — About Page
+- [x] **T15** — About Page
 - [~] **T16** — Services Page
-- [~] **T17** — Clients & Testimonials Page
+- [x] **T17** — Clients & Testimonials Page
 - [~] **T18** — Contact Page & Form
 - [x] **T19** — 404 Page
 
