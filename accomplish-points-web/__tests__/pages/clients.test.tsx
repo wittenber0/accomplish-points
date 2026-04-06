@@ -23,6 +23,11 @@ describe('Clients page', () => {
       render(<ClientsPage />)
       expect(screen.getByRole('heading', { level: 2, name: /awards.*recognition/i })).toBeInTheDocument()
     })
+
+    it('has "Organizations We Have Served" H2', () => {
+      render(<ClientsPage />)
+      expect(screen.getByRole('heading', { level: 2, name: /organizations we have served/i })).toBeInTheDocument()
+    })
   })
 
   describe('Client categories', () => {
@@ -96,6 +101,67 @@ describe('Clients page', () => {
     it('contains no placeholder logos or empty rectangles', () => {
       const { container } = render(<ClientsPage />)
       expect(container.innerHTML).not.toContain('placeholder-logo')
+    })
+  })
+
+  describe('Trust stats', () => {
+    it('renders "25+ Years" stat', () => {
+      render(<ClientsPage />)
+      expect(screen.getByText(/25\+ Years/i)).toBeInTheDocument()
+    })
+
+    it('renders "20+ Organizations" stat', () => {
+      render(<ClientsPage />)
+      expect(screen.getByText(/20\+ Organizations/i)).toBeInTheDocument()
+    })
+
+    it('renders "4 Sectors" stat', () => {
+      render(<ClientsPage />)
+      expect(screen.getByText(/4 Sectors/i)).toBeInTheDocument()
+    })
+  })
+
+  describe('Client category cards', () => {
+    it('renders 4 client category groups as H3', () => {
+      render(<ClientsPage />)
+      expect(
+        screen.getByRole('heading', { level: 3, name: /^Oregon State University/i })
+      ).toBeInTheDocument()
+      expect(
+        screen.getByRole('heading', { level: 3, name: /^County Government$/i })
+      ).toBeInTheDocument()
+      expect(
+        screen.getByRole('heading', { level: 3, name: /^Cities$/i })
+      ).toBeInTheDocument()
+      expect(
+        screen.getByRole('heading', { level: 3, name: /^Special Districts/i })
+      ).toBeInTheDocument()
+    })
+  })
+
+  describe('Context label cleanup', () => {
+    it('does not show redundant "County government" context for Clackamas entities', () => {
+      const { container } = render(<ClientsPage />)
+      const listItems = container.querySelectorAll('li')
+      const countyItems = Array.from(listItems).filter((li) =>
+        li.textContent?.includes('Clackamas County Commission')
+      )
+      countyItems.forEach((li) => {
+        expect(li.textContent).not.toContain('County government')
+      })
+    })
+
+    it('keeps distinct context labels like "Special district" for Tillamook', () => {
+      render(<ClientsPage />)
+      expect(screen.getByText(/Special district/)).toBeInTheDocument()
+    })
+  })
+
+  describe('Visual rhythm', () => {
+    it('client categories section uses white background (not cream)', () => {
+      const { container } = render(<ClientsPage />)
+      const sections = container.querySelectorAll('section')
+      expect(sections[1]?.className).toContain('bg-white')
     })
   })
 })

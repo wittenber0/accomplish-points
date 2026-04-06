@@ -73,4 +73,47 @@ describe('TestimonialCard component', () => {
       expect(html).not.toContain('<svg')
     })
   })
+
+  describe('Variants', () => {
+    it('renders default variant without featured styles', () => {
+      const { container } = render(
+        <TestimonialCard {...baseProps} variant="default" />
+      )
+      const blockquote = container.querySelector('blockquote')
+      expect(blockquote?.className).not.toContain('col-span')
+    })
+
+    it('renders featured variant with col-span class', () => {
+      const { container } = render(
+        <TestimonialCard {...baseProps} variant="featured" />
+      )
+      const blockquote = container.querySelector('blockquote')
+      expect(blockquote?.className).toContain('col-span')
+    })
+
+    it('defaults to default variant when no variant prop', () => {
+      const { container } = render(
+        <TestimonialCard quote="Test quote" name="Test Name" />
+      )
+      const blockquote = container.querySelector('blockquote')
+      expect(blockquote?.className).not.toContain('col-span')
+    })
+
+    it('uses larger text for featured variant', () => {
+      const { container } = render(
+        <TestimonialCard {...baseProps} variant="featured" />
+      )
+      const quote = container.querySelector('blockquote p')
+      expect(quote?.className).toContain('text-body')
+      expect(quote?.className).not.toContain('text-body-sm')
+    })
+
+    it('uses smaller text for default variant', () => {
+      const { container } = render(
+        <TestimonialCard {...baseProps} variant="default" />
+      )
+      const quote = container.querySelector('blockquote p')
+      expect(quote?.className).toContain('text-body-sm')
+    })
+  })
 })

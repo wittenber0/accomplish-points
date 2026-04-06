@@ -43,3 +43,7 @@
 
 - [x] **T20** — Image Selection & Placeholders
 - [x] **T21** — SEO, Accessibility & Deployment
+
+## Phase 6 — Refinement
+
+- [ ] **T22** — Clients Page UI Redesign
