@@ -1,0 +1,4200 @@
+[
+  {
+    "slide_number": 1,
+    "layout_name": "Title Slide",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 1524000,
+          "top": 1122363,
+          "width": 9144000,
+          "height": 1011237
+        },
+        "text_content": [
+          {
+            "text": "Welcome To \u000bAccomplish Points\u000bConsulting",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Welcome To ",
+                "bold": null,
+                "italic": null,
+                "size": "254000",
+                "color": null
+              },
+              {
+                "text": "Accomplish Points",
+                "bold": null,
+                "italic": null,
+                "size": "254000",
+                "color": null
+              },
+              {
+                "text": "Consulting",
+                "bold": null,
+                "italic": null,
+                "size": "254000",
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Subtitle 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 1524000,
+          "top": 3602038,
+          "width": 9144000,
+          "height": 2689034
+        },
+        "text_content": [
+          {
+            "text": "Your Access Point to ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Your Access Point to ",
+                "bold": null,
+                "italic": null,
+                "size": "228600",
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Experience \u2013 Track Record of Success ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Experience \u2013 Track Record of Success ",
+                "bold": null,
+                "italic": null,
+                "size": "228600",
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Expertise \u2013 Aligns Planning,  Emotionally Intelligence with Technical ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Expertise \u2013 Aligns Planning,  Emotionally Intelligence with Technical ",
+                "bold": null,
+                "italic": null,
+                "size": "228600",
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Strategic and Practical ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Strategic and Practical ",
+                "bold": null,
+                "italic": null,
+                "size": "228600",
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Effective and Adaptive Service \u2013  Scoped For and With You",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Effective and Adaptive Service \u2013  Scoped For and With You",
+                "bold": null,
+                "italic": null,
+                "size": "228600",
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Personal to You and Your People and Issues ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Personal to You and Your People and Issues ",
+                "bold": null,
+                "italic": null,
+                "size": "228600",
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Attitude of Joyful Supportive Service ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Attitude of Joyful Supportive Service ",
+                "bold": null,
+                "italic": null,
+                "size": "228600",
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 2,
+    "layout_name": "Comparison",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 839788,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1643979
+        },
+        "text_content": [
+          {
+            "text": "Her Story )feel free to create \u2013 I need Gravitas and Reliable Expert and Friendly safe to work on those darn people parts of work and self \u2013 ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Her Story )feel free to create \u2013 I need Gravitas and Reliable Expert and Friendly safe to work on those darn people parts of work and self \u2013 ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 839788,
+          "top": 1681163,
+          "width": 5157787,
+          "height": 823912
+        },
+        "text_content": [
+          {
+            "text": "People",
+            "level": 0,
+            "runs": [
+              {
+                "text": "People",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 3",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 839788,
+          "top": 2505075,
+          "width": 5157787,
+          "height": 3684588
+        },
+        "text_content": [
+          {
+            "text": "Meetings with Mary",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Meetings with Mary",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "One on ones",
+            "level": 0,
+            "runs": [
+              {
+                "text": "One on ones",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Teams \u2013 Management/Staff",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Teams \u2013 Management/Staff",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Communities",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Communities",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Strategic Planning Processes",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Strategic Planning Processes",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Summits/Think Tanks",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Summits/Think Tanks",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Public Institutional ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Public Institutional ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Businesses and Business Partnerships ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Businesses and Business Partnerships ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Non-Profits",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Non-Profits",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Hearings",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Hearings",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Formal and Informal",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Formal and Informal",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "etc",
+            "level": 0,
+            "runs": [
+              {
+                "text": "etc",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 6172200,
+          "top": 1681163,
+          "width": 5183188,
+          "height": 823912
+        },
+        "text_content": [
+          {
+            "text": "Planning",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Planning",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 5",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 6172200,
+          "top": 2505075,
+          "width": 5183188,
+          "height": 3684588
+        },
+        "text_content": [
+          {
+            "text": "Technicals;",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Technicals;",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "On my linked in and on some slides ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "On my linked in and on some slides ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "LINKED IN \u2013 will check if we are connected yet. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "LINKED IN \u2013 will check if we are connected yet. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "HOPE THIS IS OK FOR YOU \u2026..I am SO GRATEFUL FOR HELP Getting what I need to move forward\u2026",
+            "level": 0,
+            "runs": [
+              {
+                "text": "HOPE THIS IS OK FOR YOU \u2026..I am SO GRATEFUL FOR HELP Getting what I need to move forward\u2026",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "THIS is the raw materials..choose as you think or AI thinks \uf04a",
+            "level": 0,
+            "runs": [
+              {
+                "text": "THIS is the raw ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "materials..choose",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": " as you think or AI thinks ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "\uf04a",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Linked In needs as update later. Again, too long and wordy for todays attentions. I need details in bid materials and follow ups wit potential clients and clients use to align up their organizations to show my credentials so they attract the support they need to work with me\u2026.money and leaders buy in \u2013 from Boards to teams..etc. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Linked In needs as update later. Again, too long and wordy for todays attentions. I need details in bid materials and follow ups wit potential clients and clients use to align up their organizations to show my credentials so they attract the support they need to work with me\u2026.money and leaders buy in \u2013 from Boards to teams..",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "etc",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": ". ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 3,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 1524000,
+          "top": 1418992,
+          "width": 5880410,
+          "height": 4410308
+        },
+        "image_file": "slide03_img001.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "TextBox 3",
+        "shape_type": "TEXT_BOX (17)",
+        "position": {
+          "left": 1048215,
+          "top": 780585,
+          "width": 4372094,
+          "height": 369332
+        },
+        "text_content": [
+          {
+            "text": "To be a touched up version of one of these ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "To be a touched up version of one of these ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 4,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 1524000,
+          "top": 0,
+          "width": 7772400,
+          "height": 5829300
+        },
+        "image_file": "slide04_img002.jpg",
+        "image_content_type": "jpg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 5,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 1524000,
+          "top": 0,
+          "width": 7772400,
+          "height": 5829300
+        },
+        "image_file": "slide05_img003.jpg",
+        "image_content_type": "jpg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 6,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 1524000,
+          "top": 0,
+          "width": 7772400,
+          "height": 5829300
+        },
+        "image_file": "slide06_img004.jpg",
+        "image_content_type": "jpg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 7,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 3",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 2277987,
+          "top": 244698,
+          "width": 7479003,
+          "height": 6237643
+        },
+        "image_file": "slide07_img005.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "TextBox 4",
+        "shape_type": "TEXT_BOX (17)",
+        "position": {
+          "left": 1506828,
+          "top": 605307,
+          "width": 1056068,
+          "height": 1754326
+        },
+        "text_content": [
+          {
+            "text": "Old website for quotes or content ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Old website for quotes or content ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 8,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 3",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 2869588,
+          "top": 0,
+          "width": 6452823,
+          "height": 6858000
+        },
+        "image_file": "slide08_img006.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "TextBox 4",
+        "shape_type": "TEXT_BOX (17)",
+        "position": {
+          "left": 772732,
+          "top": 283335,
+          "width": 1880316,
+          "height": 6186309
+        },
+        "text_content": [
+          {
+            "text": "Since \u2013 some of this remains essentially true  -the same work I hope to do this is good for the planning and people. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Since \u2013 some of this remains essentially true  -the same work I hope to do this is good for the planning and people. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Updates for style and ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Updates for style and ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "\u201cFacilitation with a difference\u201d ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "\u201cFacilitation with a difference\u201d ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Meetings with Mary ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Meetings with Mary ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Coaching",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Coaching",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Writing For Client Needs",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Writing For Client Needs",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 9,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 3524250,
+          "top": 0,
+          "width": 5143500,
+          "height": 6858000
+        },
+        "image_file": "slide09_img007.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "TextBox 3",
+        "shape_type": "TEXT_BOX (17)",
+        "position": {
+          "left": 1197735,
+          "top": 888641,
+          "width": 1944709,
+          "height": 5355312
+        },
+        "text_content": [
+          {
+            "text": "One pager may be helpful \u2013let me know if not clear enuf. I have the pdfs in back up drives. Lots of tech upgrades here!  I remain in much process!! ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "One pager may be helpful \u2013let me know if not clear enuf. I have the pdfs in back up drives. Lots of tech upgrades here!  I remain in much process!! ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "These are common \u201cbid-package materials I need to redo but provide good concise summaries ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "These are common \u201cbid-package materials I need to redo but provide good concise summaries ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 10,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 3524250,
+          "top": 0,
+          "width": 5143500,
+          "height": 6858000
+        },
+        "image_file": "slide10_img008.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "TextBox 3",
+        "shape_type": "TEXT_BOX (17)",
+        "position": {
+          "left": 386366,
+          "top": 2060620,
+          "width": 2485623,
+          "height": 3139321
+        },
+        "text_content": [
+          {
+            "text": "Bid package firm materials.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Bid package firm materials.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Bullets..I like but can do much less on web..and emphasis on web is relationship that supports client success and development ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Bullets..I",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": " like but can do much less on ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "web..and",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": " emphasis on web is relationship that supports client success and development ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 11,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 3524250,
+          "top": 0,
+          "width": 5143500,
+          "height": 6858000
+        },
+        "image_file": "slide11_img009.jpg",
+        "image_content_type": "jpg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 12,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 1",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 3524250,
+          "top": 0,
+          "width": 5143500,
+          "height": 6858000
+        },
+        "image_file": "slide12_img010.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "TextBox 2",
+        "shape_type": "TEXT_BOX (17)",
+        "position": {
+          "left": 785611,
+          "top": 1867437,
+          "width": 2202288,
+          "height": 1477328
+        },
+        "text_content": [
+          {
+            "text": "A few updates needed here\u2026.but maybe highlights ward winning work for city and county",
+            "level": 0,
+            "runs": [
+              {
+                "text": "A few updates needed here\u2026.but maybe highlights ward winning work for city and county",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 13,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "LEADERS AND MANAGERS",
+            "level": 0,
+            "runs": [
+              {
+                "text": "LEADERS AND MANAGERS",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "Thought Partnership For Your Development and \u201dWhat is Next\u201d",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Thought Partnership For Your Development and \u201dWhat is Next\u201d",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Leadership and Management dedicated and trusted ally",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Leadership and Management dedicated and trusted ally",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Personal and Team Development",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Personal and Team Development",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Alignment of Self with Group (Team?) Needs For Productivity",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Alignment of Self with Group (Team?) Needs For Productivity",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Assessing and Evaluating Before and During a Change in Position",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Assessing and Evaluating Before and During a Change in Position",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Humor and Joy of Service ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Humor and Joy of Service ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Confidentiality",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Confidentiality",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Genuine Interest in You and customization For You ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Genuine Interest in You and customization For You ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide13_img011.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 14,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "COACHING \u2013 ALL Levels ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "COACHING \u2013 ALL Levels ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "Thought Partnership For Your Development and \u201dWhat is Next\u201d",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Thought Partnership For Your Development and \u201dWhat is Next\u201d",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Leadership and Management dedicated and trusted ally",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Leadership and Management dedicated and trusted ally",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Personal and Team Development",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Personal and Team Development",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Personality Assessments (DISC) and applied results from other methods as client preference (list of those)  ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Personality Assessments (DISC) and applied results from other methods as client preference (list of those)  ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Alignment of Self with Group (Team?) Needs For Productivity",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Alignment of Self with Group (Team?) Needs For Productivity",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Assessing and Evaluating Before and During a Change in Position",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Assessing and Evaluating Before and During a Change in Position",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Humor and Joy of Service ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Humor and Joy of Service ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Confidentiality",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Confidentiality",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Genuine Interest in You and customization For You ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Genuine Interest in You and customization For You ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide14_img012.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 15,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "MEETINGS       DELIVERABLES Extra-Ordinary",
+            "level": 0,
+            "runs": [
+              {
+                "text": "MEETINGS       DELIVERABLES Extra-Ordinary",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "Tap into Mary\u2019s added value in Designing, Facilitating (Choose a Tense For Website \u2013 Design Facilitation ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Tap into Mary\u2019s added value in Designing, Facilitating (Choose a Tense For Website \u2013 Design Facilitation ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Distinctive and Award Winning \u2013 County, Cities ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Distinctive and Award Winning \u2013 County, Cities ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Extra-Ordinary due to her Urban Planning (Where to put Nationally Certified \u2013 Masters)",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Extra-Ordinary due to her Urban Planning (Where to put Nationally Certified \u2013 Masters)",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide15_img013.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 16,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "MEETINGS       DELIVERABLES \u2013 Conferences Motivational ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "MEETINGS       DELIVERABLES \u2013 Conferences Motivational ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "CONFERENCE Statewide Special Districts Session \u201cGetting the Most Out of Your Planning Process\u201d ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "CONFERENCE Statewide Special Districts Session \u201cGetting the Most Out of Your Planning Process\u201d ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "To Retreat Style \u2013ne days or multiple days ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "To Retreat Style \u2013ne days or multiple days ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "For change management \u2013 incremental to transformation ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "For change management \u2013 incremental to transformation ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Etc ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Etc",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": " ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 17,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Her Intersectionality \u2013People ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Her Intersectionality \u2013People ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "People \u2013 Mary is emotionally intelligent, ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "People \u2013 Mary is emotionally intelligent, ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "adaptive to context,  and ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "adaptive to context,  and ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "experienced in her working with people ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "experienced in her working with people ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Change Management Certified  (ADKAR) PROSCI",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Change Management Certified  (ADKAR) PROSCI",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 18,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Her Intersectionality \u2013Planning  ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Her Intersectionality \u2013Planning  ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "People \u2013 Mary is emotionally intelligent, ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "People \u2013 Mary is emotionally intelligent, ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "adaptive to context,  and ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "adaptive to context,  and ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "experienced in her working with people ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "experienced in her working with people ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Change Management Certified ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Change Management Certified ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 19,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Her Intersectionality  - Economics",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Her Intersectionality  - Economics",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "Economics \u2013 Public and Private Sector",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Economics \u2013 Public and Private Sector",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Partnerships",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Partnerships",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Hybrids where overlapping missions and budgets make the whole better- Redisigning how we deliver Public Services ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Hybrids where overlapping missions and budgets make the whole better- ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "Redisigning",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": " how we deliver Public Services ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 20,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Productive and Focused on Results \u2013 Reports for USE (not the shelf)",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Productive and Focused on Results \u2013 Reports for USE (not the shelf)",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "While developing the people and teams who implement the content they generated together. Mary produces the needed written documentation fully vetted and ready for use (not the shelf) in attracting support from donors, voters, philanthropy, partnerships etc.  Strategically designed and customized for your multi-channel communication needs across (throughout?) the organization and community as needed.  ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "While developing the people and teams who implement the content they generated together. Mary produces the needed written documentation ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "fully vetted ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "and ready for use (not the shelf) in attracting support from donors, voters, philanthropy, partnerships etc.  Strategically designed and customized for your multi-channel communication needs across (throughout?) the organization and community as needed.  ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Photos",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Photos",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 21,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Partial Client List ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Partial Client List ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "Public Service Organizations",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Public Service Organizations",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "OSU Extension",
+            "level": 0,
+            "runs": [
+              {
+                "text": "OSU Extension",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "OSU Institutions ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "OSU Institutions ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Cities",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Cities",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Counties",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Counties",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Districts",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Districts",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Resume and linked in",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Resume and linked in",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 22,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Endorsements (Or other title \u2013 from flyer and these never published yet ones )",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Endorsements (Or other title \u2013 from flyer and these never published yet ones )",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Mary has been an invaluable resource in my professional journey. She has been a trusted advisor whenever I face challenges or decisions related to my career. Her ability to listen, provide thoughtful insights, and offer constructive feedback has been instrumental in my growth. Whether it's reviewing materials, assessing situations, or preparing for interviews, her guidance consistently supports both my confidence and success in the workplace.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Mary has been an invaluable resource in my professional journey. She has been a trusted advisor whenever I face challenges or decisions related to my career. Her ability to listen, provide thoughtful insights, and offer constructive feedback has been instrumental in my growth. Whether it's reviewing materials, assessing situations, or preparing for interviews, her guidance consistently supports both my confidence and success in the workplace.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Connie L.\u000b",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Connie L.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "\u201dThank you so much for all your work.\u201d\u2026\u201dYou did crack the nut. You go thtem thinking. You got htem off the dime.\u201d You did the hard work. You cracked open the doors.  You opened the doors for what can happen next.\u201d. THANK YOU.\u201d - Daphne",
+            "level": 0,
+            "runs": [
+              {
+                "text": "\u201dThank you so much for all your work.\u201d\u2026\u201dYou did crack the nut. You go ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "thtem",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": " thinking. You got ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "htem",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": " off the dime.\u201d You did the hard work. You cracked open the doors.  You opened the doors for what can happen next.\u201d. THANK YOU.\u201d - Daphne",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Upload flyer and have AI read it?\u2026",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Upload flyer and have AI read it?\u2026",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 23,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Rectangle 16",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 3049,
+          "top": 0,
+          "width": 12188952,
+          "height": 6858000
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Picture 4",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 2522356,
+          "top": 10,
+          "width": 9669642,
+          "height": 6857990
+        },
+        "image_file": "slide23_img014.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "Rectangle 18",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": -1,
+          "top": 0,
+          "width": 7390263,
+          "height": 6858000
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 3822189,
+          "height": 1899912
+        },
+        "text_content": [
+          {
+            "text": "LATER I will research if I take a photo I a public setting of an outdoor public  museum can I use the photos \u2013 (Chihuly glass in plaza but my photos ) \u000bI think so\u2026but I love this image \u000b\u000b\u2018Gods light coming through makes me create and produce\u2026I submit for fun and. \u000b\u000bMaybe useful for my book about what I do/did if that comes to fruition",
+            "level": 0,
+            "runs": [
+              {
+                "text": "LATER I will research if I take a photo I a public setting of an outdoor public  museum can I use the photos \u2013 (Chihuly glass in plaza but my photos ) ",
+                "bold": null,
+                "italic": null,
+                "size": "203200",
+                "color": null
+              },
+              {
+                "text": "I think so\u2026but I love this image ",
+                "bold": null,
+                "italic": null,
+                "size": "203200",
+                "color": null
+              },
+              {
+                "text": "\u2018Gods light coming through makes me create and produce\u2026I submit for fun and. ",
+                "bold": null,
+                "italic": null,
+                "size": "203200",
+                "color": null
+              },
+              {
+                "text": "Maybe useful for my book about what I do/did if that comes to fruition",
+                "bold": null,
+                "italic": null,
+                "size": "203200",
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 2434201,
+          "width": 3822189,
+          "height": 3742762
+        },
+        "text_content": [
+          {
+            "text": "Slide co pilot is so fun ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Slide co pilot is so fun ",
+                "bold": null,
+                "italic": null,
+                "size": "254000",
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 24,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Swanson Partners  (2011)",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Swanson Partners  (2011)",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 3195108,
+          "top": 1825625,
+          "width": 5801784,
+          "height": 4351338
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 25,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Fun for Di Ry- My SP White Board 2007 ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Fun for Di Ry- My SP White Board 2007 ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": -43717,
+          "top": 1690687,
+          "width": 6402916,
+          "height": 4802187
+        }
+      },
+      {
+        "name": "Picture 6",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 6472197,
+          "top": 1747991,
+          "width": 5719803,
+          "height": 4289852
+        },
+        "image_file": "slide25_img015.jpg",
+        "image_content_type": "jpg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 26,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Rectangle 11",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 0,
+          "top": 0,
+          "width": 12192000,
+          "height": 6858000
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Rectangle 13",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 4770782,
+          "top": 0,
+          "width": 7421217,
+          "height": 6857999
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 7320466,
+          "top": 609600,
+          "width": 4140014,
+          "height": 1330839
+        },
+        "text_content": [
+          {
+            "text": "Retreats from office rooms to outdoors\u000b",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Retreats from office rooms to outdoors",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 20,
+          "top": 10,
+          "width": 6901711,
+          "height": 6857990
+        },
+        "image_file": "slide26_img016.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "Content Placeholder 8",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 7320465,
+          "top": 2194102,
+          "width": 4140013,
+          "height": 3908586
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 27,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Rectangle 11",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 0,
+          "top": 0,
+          "width": 12191999,
+          "height": 6857365
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 793662,
+          "top": 386930,
+          "width": 10066122,
+          "height": 1298448
+        },
+        "text_content": [
+          {
+            "text": "Working Sessions Of Meaning and Relationships ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Working Sessions Of Meaning and Relationships ",
+                "bold": null,
+                "italic": null,
+                "size": "609600",
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rectangle 13",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": -2,
+          "top": 1998845,
+          "width": 11454595,
+          "height": 781699
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Rectangle 15",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 0,
+          "top": 2203079,
+          "width": 11383362,
+          "height": 4267991
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 8",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 793661,
+          "top": 2599509,
+          "width": 4530898,
+          "height": 3639450
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 6010508,
+          "top": 2484255,
+          "width": 4952325,
+          "height": 3714244
+        },
+        "image_file": "slide27_img017.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "Rectangle 17",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 11228040,
+          "top": 2313027,
+          "width": 781700,
+          "height": 152382
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 28,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Rectangle 11",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 0,
+          "top": 0,
+          "width": 12191999,
+          "height": 6857365
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 793662,
+          "top": 386930,
+          "width": 10066122,
+          "height": 1298448
+        },
+        "text_content": [
+          {
+            "text": "Can Ryan Enhance one of these \u2013 take out churchiness",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Can Ryan Enhance one of these \u2013 take out churchiness",
+                "bold": null,
+                "italic": null,
+                "size": "520700",
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rectangle 13",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": -2,
+          "top": 1998845,
+          "width": 11454595,
+          "height": 781699
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Rectangle 15",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 0,
+          "top": 2203079,
+          "width": 11383362,
+          "height": 4267991
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 6",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 793750,
+          "top": 2719785,
+          "width": 4530725,
+          "height": 3398043
+        }
+      },
+      {
+        "name": "Rectangle 17",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 11228040,
+          "top": 2313027,
+          "width": 781700,
+          "height": 152382
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 29,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "Crop and mask churchiness ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Crop and mask churchiness ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 3",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 3195108,
+          "top": 1825625,
+          "width": 5801784,
+          "height": 4351338
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 30,
+    "layout_name": "Two Content",
+    "shapes": [
+      {
+        "name": "Rectangle 10",
+        "shape_type": "AUTO_SHAPE (1)",
+        "position": {
+          "left": 0,
+          "top": 0,
+          "width": 12191999,
+          "height": 6858000
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Freeform: Shape 12",
+        "shape_type": "FREEFORM (5)",
+        "position": {
+          "left": 0,
+          "top": 0,
+          "width": 4421332,
+          "height": 6858000
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Freeform: Shape 14",
+        "shape_type": "FREEFORM (5)",
+        "position": {
+          "left": 1,
+          "top": 0,
+          "width": 4232227,
+          "height": 6858000
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Title 3",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 804672,
+          "top": 1412489,
+          "width": 2871095,
+          "height": 2156621
+        },
+        "text_content": [
+          {
+            "text": "Retreats \u2013 Business Settings \u2013 Recreational Settings ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Retreats \u2013 Business Settings \u2013 Recreational Settings ",
+                "bold": null,
+                "italic": null,
+                "size": "355600",
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 5199063,
+          "top": 1635474,
+          "width": 2925762,
+          "height": 3918840
+        }
+      },
+      {
+        "name": "Content Placeholder 7",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 8451850,
+          "top": 2420885,
+          "width": 2925763,
+          "height": 2348017
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 31,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 1115568,
+          "top": 548640,
+          "width": 10168128,
+          "height": 1179576
+        },
+        "text_content": [
+          {
+            "text": "Futures Discussions at Winery",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Futures Discussions at Winery",
+                "bold": null,
+                "italic": null,
+                "size": "508000",
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 908304,
+          "top": 2478024,
+          "width": 6009855,
+          "height": 3694176
+        },
+        "image_file": "slide31_img018.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "Content Placeholder 8",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 7411453,
+          "top": 2478024,
+          "width": 3872243,
+          "height": 3694176
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 32,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 4445000,
+          "top": 2896394,
+          "width": 3302000,
+          "height": 2209800
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 33,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 4445000,
+          "top": 2896394,
+          "width": 3302000,
+          "height": 2209800
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 34,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 4445000,
+          "top": 2896394,
+          "width": 3302000,
+          "height": 2209800
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 35,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 4445000,
+          "top": 2896394,
+          "width": 3302000,
+          "height": 2209800
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 36,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 4445000,
+          "top": 2896394,
+          "width": 3302000,
+          "height": 2209800
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 37,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 4445000,
+          "top": 2896394,
+          "width": 3302000,
+          "height": 2209800
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 38,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 4445000,
+          "top": 2896394,
+          "width": 3302000,
+          "height": 2209800
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 39,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 4",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 4445000,
+          "top": 2896394,
+          "width": 3302000,
+          "height": 2209800
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 40,
+    "layout_name": "Two Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 5",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 933534,
+          "top": 1825625,
+          "width": 4990932,
+          "height": 4351338
+        }
+      },
+      {
+        "name": "Content Placeholder 7",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 7185640,
+          "top": 1825625,
+          "width": 3154720,
+          "height": 4351338
+        }
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 41,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 3524250,
+          "top": 0,
+          "width": 5143500,
+          "height": 6858000
+        },
+        "image_file": "slide41_img019.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "TextBox 1",
+        "shape_type": "TEXT_BOX (17)",
+        "position": {
+          "left": 682580,
+          "top": 476518,
+          "width": 1751527,
+          "height": 3139321
+        },
+        "text_content": [
+          {
+            "text": "When things fall \u2013 attention to detail helps- my puzzle or card  the sense of wonder with change beyond your control",
+            "level": 0,
+            "runs": [
+              {
+                "text": "When things fall \u2013 attention to detail helps- my puzzle or card  the sense of wonder with change beyond your control",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "FOR FUN ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "FOR FUN ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 42,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "HER Story \u2013 Becoming \u2013 for book jacket, promos later? Or summary for web site later",
+            "level": 0,
+            "runs": [
+              {
+                "text": "HER Story \u2013 Becoming \u2013 for book jacket, promos later? Or summary for web site later",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "Called to Public Service and Bringing People Together to Get Things Done;  She was Elected to her first of many student leadership positions in 7th Grade! This position launched her into  community projects (park/garden development) as well as teamwork and facilitation. She expanded the scope of the club.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Called to Public Service and Bringing People Together to Get Things Done;  She was Elected to her first of many student leadership positions in 7",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": "th",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              },
+              {
+                "text": " Grade! This position launched her into  community projects (park/garden development) as well as teamwork and facilitation. She expanded the scope of the club.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "And at her school reunion she as asked \u201dWhat did your dad do?\u201d \u201cHe sold so many girl scout cookies and stuff at his company for you to win!.\u201d  What? that was all Mary \u2013 the girl scout and student selling door to door, winning many sales awards with her enthusiasm and vision. While her dad worked blue-collar? shifts to support his family and their futures. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "And at her school reunion she as asked \u201dWhat did your dad do?\u201d \u201cHe sold so many girl scout cookies and stuff at his company for you to win!.\u201d  What? that was all Mary \u2013 the girl scout and student selling door to door, winning many sales awards with her enthusiasm and vision. While her dad worked blue-collar? shifts to support his family and their futures. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "By the time she was in High School she was not only elected in positions within her schools but also was a Junior Statesman, Girls State etc.  She designed, attracted participants in the \u201cGovernment Day in Los Angeles\u201d where students around the region met with public officials and personally observed the actions of area institutions.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "By the time she was in High School she was not only elected in positions within her schools but also was a Junior Statesman, Girls State etc.  She designed, attracted participants in the \u201cGovernment Day in Los Angeles\u201d where students around the region met with public officials and personally observed the actions of area institutions.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Funny Pics available or not for later or at all",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Funny Pics available or not for later or at all",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide42_img020.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 43,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "HER Story \u2013 Adult Education and Experience\u000b",
+            "level": 0,
+            "runs": [
+              {
+                "text": "HER Story \u2013 Adult Education and Experience",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "First Generation to College she work her way through college attaining a B.A. in political science. During those years, selected as a U.S. Congressional Intern, she bought herself a  ticket to D.C. for her first ever plane ride and tracked and reported on Congressional policy development. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "First Generation to College she work her way through college attaining a B.A. in political science. During those years, selected as a U.S. Congressional Intern, she bought herself a  ticket to D.C. for her first ever plane ride and tracked and reported on Congressional policy development. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Always fascinated by the earth, she minored in geography, laying a foundation for later work with land use planning, parks, scientists and policy makers.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Always fascinated by the earth, she minored in geography, laying a foundation for later work with land use planning, parks, scientists and policy makers.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Her chance \u201c to work in the private sector solving public sector problems\u201d. She volunteered in relevant work and was thrilled to be offered her dream job, with a mutual two year commitment to expertise development. There she honed her understanding and skills in land use economics, conducting studies, research and analytics, all to discover that she was most interested in the meetings. The development and (execution) conduct of public and private partnerships and the roles and responsibilities of those involved and effected directly and indirectly. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Her chance \u201c to work in the private sector solving public sector problems\u201d. She volunteered in relevant work and was thrilled to be offered her dream job, with a mutual two year commitment to expertise development. There she honed her understanding and skills in land use economics, conducting studies, research and analytics, all to discover that she was most interested in the meetings. The development and (execution) conduct of public and private partnerships and the roles and responsibilities of those involved and effected directly and indirectly. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide43_img021.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 44,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "HER Story \u2013 UCLA to County Staff",
+            "level": 0,
+            "runs": [
+              {
+                "text": "HER Story \u2013 UCLA to County Staff",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "While continuing her work as a consultant she focused on her Masters Degree in Urban Planning. Knowing the value of specific expertise she independently took courses from the UCLA School of Law and Anderson Business School and excelled in the multi-disciplinary courses the included design and architecture, geography and land use, economics, sociology, governance and citizenship etc.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "While continuing her work as a consultant she focused on her Masters Degree in Urban Planning. Knowing the value of specific expertise she independently took courses from the UCLA School of Law and Anderson Business School and excelled in the multi-disciplinary courses the included design and architecture, geography and land use, economics, sociology, governance and citizenship etc.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Her next professional path was public sector in California Redevelopment followed by independent consulting in Oregon to attain her Senior Planner Role in County Government. The diversity of County work and leaders was foundational to her (almost 20 or over 15?) satisfaction in the \u201cspecial projects\u201d role she would become known for as she facilitated complex people and projects to evolve productively. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Her next professional path was public sector in California Redevelopment followed by independent consulting in Oregon to attain her Senior Planner Role in County Government. The diversity of County work and leaders was foundational to her (almost 20 or over 15?) satisfaction in the \u201cspecial projects\u201d role she would become known for as she facilitated complex people and projects to evolve productively. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Award winning Projects for County and City. Change Management Certified, A.I.C.P National Certification. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Award winning Projects for County and City. Change Management Certified, A.I.C.P National Certification. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide44_img022.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 45,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "HER Story \u2013 ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "HER Story \u2013 ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "While continuing her work as a consultant she focused on her Masters Degree in Urban Planning. Knowing the value of specific expertise she independently took courses from the UCLA School of Law and Anderson Business School and excelled in the multi-disciplinary courses the included design and architecture, geography and land use, economics, sociology, governance and citizenship etc.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "While continuing her work as a consultant she focused on her Masters Degree in Urban Planning. Knowing the value of specific expertise she independently took courses from the UCLA School of Law and Anderson Business School and excelled in the multi-disciplinary courses the included design and architecture, geography and land use, economics, sociology, governance and citizenship etc.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Her next professional path was public sector in California Redevelopment followed by independent consulting in Oregon to attain her Senior Planner Role in County Government. The diversity of County work and leaders was foundational to her (almost 20 or over 15?) satisfaction in the \u201cspecial projects\u201d role she would become known for as she facilitated complex people and projects to evolve productively. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Her next professional path was public sector in California Redevelopment followed by independent consulting in Oregon to attain her Senior Planner Role in County Government. The diversity of County work and leaders was foundational to her (almost 20 or over 15?) satisfaction in the \u201cspecial projects\u201d role she would become known for as she facilitated complex people and projects to evolve productively. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide45_img023.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 46,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "HER Story \u2013 Consultancy 1",
+            "level": 0,
+            "runs": [
+              {
+                "text": "HER Story \u2013 Consultancy 1",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "With curiosity for other public organizations, Mary began consulting again. With prior experience in small consultancy operations, she successfully ran Swanson Partners, LLC and enjoyed her tagline role as \u201cYour Partner in Service\u201d . A",
+            "level": 0,
+            "runs": [
+              {
+                "text": "With curiosity for other public organizations, Mary began consulting again. With prior experience in small consultancy operations, she successfully ran Swanson Partners, LLC and enjoyed her tagline role as \u201cYour Partner in Service\u201d . A",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "A trusted ally with unwavering focus on client service she thrived in the creative role of helping people become better participants in their teams at work, teams improving their agility and clarity of purpose and organizations becoming more agile and fun.  Organizational Development and Community Development are Personal.  Change management is motivational stewardship to accomplishing what is most important to the clients, an organization of people serving a purpose with enthusiasm and enlightenment that their performance  matters. A transformational process designed and conducted with expertise to facilitate people\u2019s ability to accomplish what is most important to them.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "A trusted ally with unwavering focus on client service she thrived in the creative role of helping people become better participants in their teams at work, teams improving their agility and clarity of purpose and organizations becoming more agile and fun.  Organizational Development and Community Development are Personal.  Change management is motivational stewardship to accomplishing what is most important to the clients, an organization of people serving a purpose with enthusiasm and enlightenment that their performance  matters. A transformational process designed and conducted with expertise to facilitate people\u2019s ability to accomplish what is most important to them.",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide46_img024.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 47,
+    "layout_name": "Title and Content",
+    "shapes": [
+      {
+        "name": "Title 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 365125,
+          "width": 10515600,
+          "height": 1325563
+        },
+        "text_content": [
+          {
+            "text": "HER Story \u2013 Consultancy Transformed",
+            "level": 0,
+            "runs": [
+              {
+                "text": "HER Story \u2013 Consultancy Transformed",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Placeholder 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "position": {
+          "left": 838200,
+          "top": 1825625,
+          "width": 10515600,
+          "height": 4351338
+        },
+        "text_content": [
+          {
+            "text": "After recent years of \u201cunprecedented change\u201d across civic society and public organizations specifically, Accomplish Points is dedicated to re-imagining and re-building civic participation, partnerships and private and public service.  Engaging in the  \u201cre-imaging\u201d and \u201cre-working\u201d ahead with skill and reliability in personal and organizational development and transformation . ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "After recent years of \u201cunprecedented change\u201d across civic society and public organizations specifically, Accomplish Points is dedicated to re-imagining and re-building civic participation, partnerships and private and public service.  Engaging in the  \u201cre-imaging\u201d and \u201cre-working\u201d ahead with skill and reliability in personal and organizational development and transformation . ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "May\u2019s expertise in consensus building, process design and facilitation, project scoping and management, delivery of entrepreneurial energy for clients. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "May\u2019s expertise in consensus building, process design and facilitation, project scoping and management, delivery of entrepreneurial energy for clients. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Mary serves from an appointment within an organization with a dutiful and enthusiastic alignment with staff and leaders to deliver excellence within an organization.  The roles and responsibilities within the organizational framework empower a staff position. Mary serves internally \u2013 as interim, temp or part time \u2013 when that internal operations role is valuable to accomplish what is needed. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Mary serves from an appointment within an organization with a dutiful and enthusiastic alignment with staff and leaders to deliver excellence within an organization.  The roles and responsibilities within the organizational framework empower a staff position. Mary serves internally \u2013 as interim, temp or part time \u2013 when that internal operations role is valuable to accomplish what is needed. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "",
+            "level": 0,
+            "runs": []
+          },
+          {
+            "text": "Mary serves as consultant with the helpfulness of fresh perspective and agility to focus on performing the agreed upon roles and responsibilities of contracted services. Leaders hire Mary to provide expertise in listening, assessing and analyzing needs and partnering to accomplish what is most important.   This role allows Mary agility and support for people\u2019s growth and teamwork and often a client candor that facilitates evolution and change. The constraints of \u201cin-house\u201d role are removed and specific change and growth targets are more available. Re-imagining and re-constructing, the smart risk taking of \u201coutside the box\u201d viewing and drafting scenarios are of tremendous value. ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Mary serves as consultant with the helpfulness of fresh perspective and agility to focus on performing the agreed upon roles and responsibilities of contracted services. Leaders hire Mary to provide expertise in listening, assessing and analyzing needs and partnering to accomplish what is most important.   This role allows Mary agility and support for people\u2019s growth and teamwork and often a client candor that facilitates evolution and change. The constraints of \u201cin-house\u201d role are removed and specific change and growth targets are more available. Re-imagining and re-constructing, the smart risk taking of \u201coutside the box\u201d viewing and drafting scenarios are of tremendous value. ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Re-building the \u201csense\u201d and ethic of public service. Re-educating ourselves about the roles and responsibilities and benefits of civic participation and public organizations.  ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Re-building the \u201csense\u201d and ethic of public service. Re-educating ourselves about the roles and responsibilities and benefits of civic participation and public organizations.  ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "Expert in learning organizational development, leadership support, emotional intelligence, personal and organizational change, education about citizenship and necessary skills, ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Expert in learning organizational development, leadership support, emotional intelligence, personal and organizational change, education about citizenship and necessary skills, ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          },
+          {
+            "text": "After her clients asked her to \u201cwrite a book\u201d so you can teach us \u201dhow you do what you do\u201d she relocated to sunny Bend Oregon and remains focused on client services. Mary\u2019s response to \u201cunprecedented change\u201d, was to re-assess and re-scope.  With rededication to the personal skills of consensus building and engagement skills ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "After her clients asked her to \u201cwrite a book\u201d so you can teach us \u201dhow you do what you do\u201d she relocated to sunny Bend Oregon and remains focused on client services. Mary\u2019s response to \u201cunprecedented change\u201d, was to re-assess and re-scope.  With rededication to the personal skills of consensus building and engagement skills ",
+                "bold": null,
+                "italic": null,
+                "size": null,
+                "color": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audio 5",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 11226800,
+          "top": 5892800,
+          "width": 812800,
+          "height": 812800
+        },
+        "image_file": "slide47_img025.png",
+        "image_content_type": "png"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "slide_number": 48,
+    "layout_name": "Blank",
+    "shapes": [
+      {
+        "name": "Picture 2",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 3524250,
+          "top": 0,
+          "width": 5143500,
+          "height": 6858000
+        },
+        "image_file": "slide48_img026.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "Picture 4",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 9830374,
+          "top": 4082602,
+          "width": 1477277,
+          "height": 1976123
+        },
+        "image_file": "slide48_img027.jpg",
+        "image_content_type": "jpg"
+      },
+      {
+        "name": "Picture 6",
+        "shape_type": "PICTURE (13)",
+        "position": {
+          "left": 6795507,
+          "top": 4365938,
+          "width": 1860545,
+          "height": 2492062
+        },
+        "image_file": "slide48_img028.jpg",
+        "image_content_type": "jpg"
+      }
+    ],
+    "notes": ""
+  }
+]

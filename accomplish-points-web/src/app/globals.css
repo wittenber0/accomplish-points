@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-brand-cream text-body font-body text-body;
+  }
+
+  h1 {
+    @apply font-heading text-h1 text-brand-slate;
+  }
+
+  h2 {
+    @apply font-heading text-h2 text-brand-slate;
+  }
+
+  h3 {
+    @apply font-heading text-h3 text-brand-slate;
+  }
+
+  h4 {
+    @apply font-heading text-h4 text-brand-slate;
+  }
+
+  a {
+    @apply text-brand-teal transition-colors duration-150;
+  }
+
+  a:hover {
+    @apply text-brand-slate;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-brand-teal;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  p {
+    max-width: 65ch;
+  }
+}
+
+@layer components {
+  .skip-link {
+    @apply absolute left-4 top-4 z-50 -translate-y-full rounded bg-brand-teal px-4 py-2 text-white transition-transform focus:translate-y-0;
+  }
+}
