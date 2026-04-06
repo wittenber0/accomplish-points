@@ -7,7 +7,7 @@ import { education, certifications } from '@/content/credentials'
 export const metadata: Metadata = {
   title: 'About Mary Cook',
   description:
-    'Mary Cook is a nationally certified planner (AICP) with 25+ years of experience in strategic planning, facilitation, and organizational development for public service organizations.',
+    'AICP-certified planner with 25+ years in strategic planning, facilitation, and organizational development for public service organizations.',
 }
 
 export default function AboutPage() {

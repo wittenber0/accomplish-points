@@ -7,7 +7,7 @@ import { engagementModels } from '@/content/services'
 export const metadata: Metadata = {
   title: 'Services',
   description:
-    'Leadership coaching, meeting facilitation, strategic planning, project management, and policy development — customized for public service organizations, government agencies, and community leaders.',
+    'Leadership coaching, facilitation, strategic planning, and project management for public service organizations and government agencies.',
 }
 
 interface ServiceCategory {

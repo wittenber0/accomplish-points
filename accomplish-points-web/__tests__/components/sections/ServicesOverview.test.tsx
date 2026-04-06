@@ -10,7 +10,7 @@ describe('ServicesOverview section', () => {
 
   it('renders 4 service cards', () => {
     render(<ServicesOverview />)
-    const cards = screen.getAllByRole('heading', { level: 4 })
+    const cards = screen.getAllByRole('heading', { level: 3 })
     expect(cards.length).toBeGreaterThanOrEqual(4)
   })
 

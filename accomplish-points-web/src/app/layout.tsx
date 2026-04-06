@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { headingFont, bodyFont } from '@/lib/fonts'
-import { siteMetadata } from '@/lib/metadata'
+import { siteMetadata, generateJsonLd } from '@/lib/metadata'
 import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
 import './globals.css'
@@ -24,6 +24,10 @@ export default function RootLayout({
         </main>
         <Footer />
       </body>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(generateJsonLd()) }}
+      />
     </html>
   )
 }

@@ -29,7 +29,7 @@ export default function ClientsPage() {
           <div className="mt-12 grid gap-10 md:grid-cols-2">
             {clientCategories.map((category) => (
               <div key={category.name}>
-                <SectionHeading level="h3">{category.name}</SectionHeading>
+                <SectionHeading level="h2">{category.name}</SectionHeading>
                 <ul className="mt-4 space-y-2">
                   {category.clients.map((client) => (
                     <li key={client.name} className="text-body leading-relaxed">

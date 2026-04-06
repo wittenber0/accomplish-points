@@ -9,9 +9,9 @@ describe('ServiceCard component', () => {
   }
 
   describe('Content', () => {
-    it('renders the title as an h4', () => {
+    it('renders the title as an h3', () => {
       render(<ServiceCard {...baseProps} />)
-      const heading = screen.getByRole('heading', { level: 4 })
+      const heading = screen.getByRole('heading', { level: 3 })
       expect(heading).toHaveTextContent('Leadership & Coaching')
     })
 

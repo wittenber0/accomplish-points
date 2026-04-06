@@ -9,7 +9,7 @@ interface ServiceCardProps {
 export function ServiceCard({ title, description, href }: ServiceCardProps) {
   return (
     <div className="rounded border border-border bg-brand-cream p-8">
-      <h4 className="font-heading text-h4 text-brand-slate">{title}</h4>
+      <h3 className="font-heading text-h4 text-brand-slate">{title}</h3>
       <p className="mt-3 text-body text-body-muted">{description}</p>
       {href && (
         <Link
