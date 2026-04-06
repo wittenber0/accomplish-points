@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { Button } from '@/components/ui/Button'
 
 export function Hero() {
@@ -26,11 +27,16 @@ export function Hero() {
               </Button>
             </div>
           </div>
-          <div
-            data-testid="hero-image-placeholder"
-            className="flex aspect-[4/3] items-center justify-center rounded bg-brand-stone"
-            aria-hidden="true"
-          />
+          <div className="relative aspect-[4/3] overflow-hidden rounded">
+            <Image
+              src="/images/headshots/mary-cook-outdoor.jpg"
+              alt="Mary Cook in an outdoor setting along the river in Oregon"
+              fill
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 50vw"
+              priority
+            />
+          </div>
         </div>
       </div>
     </section>

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Image from 'next/image'
 import { SectionHeading } from '@/components/ui/SectionHeading'
 import { CredentialBadge } from '@/components/ui/CredentialBadge'
 import { CallToAction } from '@/components/sections/CallToAction'
@@ -46,11 +47,16 @@ export default function AboutPage() {
             </div>
 
             <div className="flex items-start justify-center">
-              <div
-                className="aspect-[3/4] w-full max-w-sm rounded bg-brand-stone"
-                aria-label="Portrait of Mary Cook"
-                role="img"
-              />
+              <div className="relative aspect-[3/4] w-full max-w-sm overflow-hidden rounded">
+                <Image
+                  src="/images/headshots/mary-cook-portrait.jpg"
+                  alt="Portrait of Mary Cook, consulting professional"
+                  fill
+                  className="object-cover object-top"
+                  sizes="(max-width: 1024px) 100vw, 384px"
+                  priority
+                />
+              </div>
             </div>
           </div>
         </div>
