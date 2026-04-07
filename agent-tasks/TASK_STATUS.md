@@ -47,3 +47,4 @@
 ## Phase 6 — Refinement
 
 - [ ] **T22** — Clients Page UI Redesign
+- [ ] **T23** — Services Page UI Redesign

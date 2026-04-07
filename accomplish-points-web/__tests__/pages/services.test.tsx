@@ -98,4 +98,120 @@ describe('Services page', () => {
       expect(container.textContent).not.toContain('!')
     })
   })
+
+  describe('Value proposition', () => {
+    it('renders the value proposition callout', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getByText(/rare combination.*people skills/i)
+      ).toBeInTheDocument()
+    })
+  })
+
+  describe('Engagement model cards', () => {
+    it('renders benefit bullets for consultant model', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getByText(/fresh perspective.*candor/i)
+      ).toBeInTheDocument()
+    })
+
+    it('renders benefit bullets for staff model', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getByText(/embedded alignment/i)
+      ).toBeInTheDocument()
+    })
+  })
+
+  describe('Signature services section', () => {
+    it('renders signature services on white background', () => {
+      const { container } = render(<ServicesPage />)
+      const sections = container.querySelectorAll('section')
+      const sectionClasses = Array.from(sections).map((s) => s.className)
+      expect(sectionClasses.some((c) => c.includes('bg-white'))).toBe(true)
+    })
+
+    it('renders "Meetings with Mary" brand callout', () => {
+      render(<ServicesPage />)
+      expect(screen.getByText(/meetings with mary/i)).toBeInTheDocument()
+    })
+
+    it('renders 3 signature service cards', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getByRole('heading', { level: 3, name: /leadership/i })
+      ).toBeInTheDocument()
+      expect(
+        screen.getByRole('heading', { level: 3, name: /meeting design/i })
+      ).toBeInTheDocument()
+      expect(
+        screen.getByRole('heading', { level: 3, name: /project/i })
+      ).toBeInTheDocument()
+    })
+  })
+
+  describe('Additional services section', () => {
+    it('renders additional services in compact format', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getByRole('heading', { level: 3, name: /plan.*policy/i })
+      ).toBeInTheDocument()
+      expect(
+        screen.getByRole('heading', { level: 3, name: /^written deliverables$/i })
+      ).toBeInTheDocument()
+      expect(
+        screen.getByRole('heading', { level: 3, name: /interagency/i })
+      ).toBeInTheDocument()
+      expect(
+        screen.getByRole('heading', { level: 3, name: /communication strategies/i })
+      ).toBeInTheDocument()
+    })
+
+    it('renders "Reports for USE" brand callout in written deliverables', () => {
+      render(<ServicesPage />)
+      expect(screen.getByText(/reports for use/i)).toBeInTheDocument()
+    })
+  })
+
+  describe('Specialty areas intro', () => {
+    it('has intro text above specialty badges', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getByText(/deep expertise.*disciplines/i)
+      ).toBeInTheDocument()
+    })
+  })
+
+  describe('Bullet count discipline', () => {
+    it('signature service cards have at most 3 bullets each', () => {
+      const { container } = render(<ServicesPage />)
+      const whiteSection = Array.from(
+        container.querySelectorAll('section')
+      ).find((s) => s.className.includes('bg-white'))
+      if (whiteSection) {
+        const cards = whiteSection.querySelectorAll('[class*="rounded-lg"]')
+        cards.forEach((card) => {
+          const bullets = card.querySelectorAll('li')
+          expect(bullets.length).toBeLessThanOrEqual(3)
+        })
+      }
+    })
+
+    it('additional service cards have at most 2 bullets each', () => {
+      const { container } = render(<ServicesPage />)
+      const sections = Array.from(container.querySelectorAll('section'))
+      const whiteIdx = sections.findIndex((s) =>
+        s.className.includes('bg-white')
+      )
+      const additionalSection = sections[whiteIdx + 1]
+      if (additionalSection) {
+        const cards = additionalSection.querySelectorAll('[class*="rounded-lg"]')
+        cards.forEach((card) => {
+          const bullets = card.querySelectorAll('li')
+          expect(bullets.length).toBeLessThanOrEqual(2)
+        })
+      }
+    })
+  })
 })
