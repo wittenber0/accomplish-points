@@ -161,10 +161,10 @@ export default function ServicesPage() {
                 engagement.
               </p>
             </div>
-            <div className="relative aspect-[4/3] overflow-hidden rounded">
+            <div className="relative aspect-[6/5] overflow-hidden rounded">
               <Image
-                src="/images/work/indoor-session.jpg"
-                alt="Working session with participants collaborating at a conference table"
+                src="/images/work/facilitation-workshop.jpg"
+                alt="Mary Cook facilitating a workshop with seated participants"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"

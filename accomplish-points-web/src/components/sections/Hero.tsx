@@ -29,7 +29,7 @@ export function Hero() {
           </div>
           <div className="relative aspect-[4/3] overflow-hidden rounded">
             <Image
-              src="/images/headshots/mary-cook-outdoor.jpg"
+              src="/images/headshots/mary-cook-pro-blue.jpeg"
               alt="Mary Cook in an outdoor setting along the river in Oregon"
               fill
               className="object-cover"

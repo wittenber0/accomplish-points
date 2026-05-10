@@ -49,7 +49,7 @@ export default function AboutPage() {
             <div className="flex items-start justify-center">
               <div className="relative aspect-[3/4] w-full max-w-sm overflow-hidden rounded">
                 <Image
-                  src="/images/headshots/mary-cook-portrait.jpg"
+                  src="/images/headshots/mary-cook-pro-white-shirt.jpeg"
                   alt="Portrait of Mary Cook, consulting professional"
                   fill
                   className="object-cover object-top"

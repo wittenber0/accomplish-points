@@ -106,6 +106,13 @@ describe('Services page', () => {
         screen.getByText(/rare combination.*people skills/i)
       ).toBeInTheDocument()
     })
+
+    it('renders the cropped facilitation hero image', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getByAltText(/facilitating a workshop with seated participants/i)
+      ).toBeInTheDocument()
+    })
   })
 
   describe('Engagement model cards', () => {
