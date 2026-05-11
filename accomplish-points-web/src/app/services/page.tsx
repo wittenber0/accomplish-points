@@ -115,7 +115,7 @@ const engagementBenefits: Record<string, string[]> = {
     'Specific change and growth targets more directly available',
   ],
   'Internal Staff (Interim / Part-Time)': [
-    'Embedded alignment with your staff and leaders',
+    'Internal alignment with your staff and leaders',
     'Empowered delivery within your organizational framework',
     'Continuity and institutional knowledge development',
   ],
