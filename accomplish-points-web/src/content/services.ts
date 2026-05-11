@@ -153,7 +153,7 @@ export const serviceGroupings: ServiceGrouping[] = [
   {
     title: 'Leadership and Coaching',
     description:
-      'Trusted advisory, Thought Partnership, and dedicated coaching for leaders and teams at every level.',
+      'Trusted advisory, thought partnership, and dedicated coaching for leaders and teams at every level.',
     href: '/services#leadership-development',
   },
   {

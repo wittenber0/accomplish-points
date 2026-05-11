@@ -36,7 +36,7 @@ const signatureServices: SignatureService[] = [
     bullets: [
       'Trusted advisory for leaders navigating complex decisions',
       'DISC personality assessments with applied results',
-      'Confidential, customized counsel from new managers to senior executives',
+      'Confidential, customized counsel from staff to senior executives',
     ],
   },
   {
@@ -69,8 +69,9 @@ const additionalServices: AdditionalService[] = [
     id: 'planning-policy',
     title: 'Plan and Policy Making',
     description:
-      'Expert support for creating new frameworks or updating existing ones, paired with technical planning assistance and community engagement.',
+      'Expert support for creating policy, new frameworks, or updating existing ones, paired with technical planning assistance and community engagement.',
     bullets: [
+      'Strategic plans, strategic initiatives, special projects, pilot projects',
       'Fiscal analysis, tradeoffs, and alternatives with metrics',
       'Guidance through bureaucratic and community processes',
     ],
@@ -115,7 +116,7 @@ const engagementBenefits: Record<string, string[]> = {
     'Specific change and growth targets more directly available',
   ],
   'Internal Staff (Interim / Part-Time)': [
-    'Embedded alignment with your staff and leaders',
+    'Internal alignment with your staff and leaders',
     'Empowered delivery within your organizational framework',
     'Continuity and institutional knowledge development',
   ],

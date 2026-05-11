@@ -4,7 +4,7 @@ const credentialLabels = [
   'AICP',
   'PROSCI Change Management',
   'M.A. Urban Planning, UCLA',
-  'WBE Certified',
+  'B.A. Political Science, UCLA',
   '25+ Years Experience',
 ]
 

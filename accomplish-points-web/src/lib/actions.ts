@@ -61,8 +61,12 @@ export async function submitContactForm(formData: FormData): Promise<FormState> 
   const apiKey = process.env.RESEND_API_KEY
 
   if (!apiKey) {
-    // No API key configured — accept the form but skip email delivery
-    return { success: true, message: 'Thank you. I will be in touch soon.' }
+    return {
+      success: false,
+      errors: {
+        form: 'Email delivery is not configured yet. Please email mary@accomplishpoints.com directly.',
+      },
+    }
   }
 
   try {

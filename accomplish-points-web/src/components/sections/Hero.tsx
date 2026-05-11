@@ -14,8 +14,8 @@ export function Hero() {
               Accomplish what is most important.
             </h1>
             <p className="mt-6 max-w-prose text-body text-body-muted">
-              Strategic planning, leadership coaching, and public service
-              consulting to help you and your organization move forward with
+              Strategic planning, leadership coaching, and public services
+              consulting to help you, your team, and your organization move forward with
               clarity and purpose.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
@@ -29,7 +29,7 @@ export function Hero() {
           </div>
           <div className="relative aspect-[4/3] overflow-hidden rounded">
             <Image
-              src="/images/headshots/mary-cook-pro-blue.jpeg"
+              src="/images/headshots/TPark_8203_033126.jpg"
               alt="Mary Cook in an outdoor setting along the river in Oregon"
               fill
               className="object-cover"

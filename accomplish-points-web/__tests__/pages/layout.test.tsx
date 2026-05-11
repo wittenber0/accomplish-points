@@ -72,4 +72,18 @@ describe('Root Layout', () => {
     const main = container.querySelector('main')
     expect(main).toHaveAttribute('id', 'main-content')
   })
+
+  it('renders JSON-LD inside the document body', () => {
+    const { container } = render(
+      <RootLayout>
+        <div>Content</div>
+      </RootLayout>
+    )
+
+    const structuredDataScript = container.ownerDocument.body.querySelector(
+      'script[type="application/ld+json"]'
+    )
+
+    expect(structuredDataScript).toBeInTheDocument()
+  })
 })

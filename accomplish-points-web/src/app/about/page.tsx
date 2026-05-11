@@ -34,7 +34,7 @@ export default function AboutPage() {
                 <p>
                   Mary brings consensus building, process design, project
                   management, and entrepreneurial energy to every engagement.
-                  Whether serving as an external consultant or embedded staff,
+                  Whether serving as an external consultant or included as staff,
                   she meets organizations where they are and helps them move
                   forward with clarity and purpose.
                 </p>
@@ -49,7 +49,7 @@ export default function AboutPage() {
             <div className="flex items-start justify-center">
               <div className="relative aspect-[3/4] w-full max-w-sm overflow-hidden rounded">
                 <Image
-                  src="/images/headshots/mary-cook-pro-white-shirt.jpeg"
+                  src="/images/headshots/TPark_8286_033126.jpg"
                   alt="Portrait of Mary Cook, consulting professional"
                   fill
                   className="object-cover object-top"
@@ -71,29 +71,29 @@ export default function AboutPage() {
 
           <div className="mt-8 space-y-5 text-body leading-relaxed text-brand-slate">
             <p>
-              Mary Cook is a first-generation college student who earned both a
+              Mary Cook is a first-generation college graduate who earned both a
               Bachelor of Arts in Political Science and a Master of Arts in
               Urban Planning from UCLA. Her academic foundation in public
-              administration and urban systems set the stage for a career
-              dedicated to strengthening communities.
+              administration and urban/rural systems set the stage for a career
+              dedicated to strengthening people and communities.
             </p>
             <p>
               She began her career in the private sector, specializing in land
               use economics and market analyses. It was during this early work
-              that she discovered her passion for the art of meetings — the
+              that she discovered her passion for the art and discipline of meetings — the
               craft of bringing diverse stakeholders together to find common
               ground and move toward shared goals.
             </p>
             <p>
               Mary spent approximately seventeen years at Clackamas County,
               serving as a Senior Planner across six divisions. During this
-              time she earned her AICP certification, became Change Management
+              time she earned her AICP national certification, became Change Management
               Certified through PROSCI, and led award-winning public
               involvement initiatives that set new standards for community
               engagement.
             </p>
             <p>
-              Following her public sector tenure, Mary co-founded Swanson
+              Following her public sector tenure, Mary founded Swanson
               Partners, LLC, an independent consultancy operating under the
               motto &ldquo;Your Partner in Service.&rdquo; The firm delivered
               facilitation, strategic planning, and organizational development
