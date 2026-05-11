@@ -3,8 +3,8 @@ import { CredentialBadge } from '@/components/ui/CredentialBadge'
 const credentialLabels = [
   'AICP',
   'PROSCI Change Management',
-  'M.A. Urban Planning, UCLA',
-  'B.A. Political Science, UCLA',
+  'UCLA Graduate Training',
+  'Certified Women Business Enterprise (WBE)',
   '25+ Years Experience',
 ]
 

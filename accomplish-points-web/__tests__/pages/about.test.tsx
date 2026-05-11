@@ -65,6 +65,11 @@ describe('About page', () => {
       render(<AboutPage />)
       expect(screen.getByText(/Swanson Partners/)).toBeInTheDocument()
     })
+
+    it('mentions impactful public-private partnerships', () => {
+      render(<AboutPage />)
+      expect(screen.getByText(/impactful public-private partnerships/i)).toBeInTheDocument()
+    })
   })
 
   describe('Anti-patterns', () => {

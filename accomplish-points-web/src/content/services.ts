@@ -67,7 +67,7 @@ export const services: Service[] = [
     id: 'project-management',
     title: 'Project Development and Management',
     description:
-      'You move from initial ideas to clarified programs with detailed scopes of work. Projects stay on track with focused content, appropriate stakeholder involvement, and disciplined time and budget management.',
+      'You move from initial ideas to clarified programs with detailed scopes of work. Projects stay on track with focused content, appropriate stakeholder involvement, disciplined time and budget management, and practical new service delivery models.',
     offerings: [
       'Develop initial ideas into clarified programs or projects',
       'Detailed scopes of work and project planning',
@@ -87,7 +87,7 @@ export const services: Service[] = [
       'Technical planning assistance including reports and permit applications',
       'Coordination with allied professionals to accomplish goals',
       'Informational needs analysis, collection, management, and presentation',
-      'Fiscal analysis, tradeoffs, and alternatives analysis with metrics',
+      'Fiscal analysis, budget economics, tradeoffs, negotiations, and new service delivery models with metrics',
       'Guidance through bureaucratic and community processes',
     ],
   },
@@ -108,7 +108,7 @@ export const services: Service[] = [
     id: 'coordination-communication',
     title: 'Interagency Coordination and Communication',
     description:
-      'You build and maintain the strategic alliances and community relationships essential to your mission. From public policy alternatives to interagency agreements, coordination is managed with clarity and purpose.',
+      'You build and maintain the strategic alliances and community relationships essential to your mission. From public policy alternatives to interagency agreements and impactful public-private partnerships, coordination is managed with clarity and purpose.',
     offerings: [
       'Build and maintain strategic alliances and positive relationships',
       'Public policy alternative development and strategy',
@@ -165,13 +165,13 @@ export const serviceGroupings: ServiceGrouping[] = [
   {
     title: 'Planning and Policy',
     description:
-      'Expert project management, plan and policy creation, and technical planning assistance for your organization.',
+      'Expert project management, plan and policy creation, and technical planning assistance for budget economics, tradeoffs, and new service delivery models.',
     href: '/services#project-management',
   },
   {
     title: 'Communication and Coordination',
     description:
-      'Strategic written deliverables, interagency coordination, and multi-channel communication support.',
+      'Strategic written deliverables, interagency coordination, and support for impactful public-private partnerships.',
     href: '/services#coordination-communication',
   },
 ]

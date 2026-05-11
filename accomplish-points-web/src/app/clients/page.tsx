@@ -46,7 +46,8 @@ export default function ClientsPage() {
               <p className="mt-6 max-w-prose text-body leading-relaxed">
                 Mary has partnered with public service organizations,
                 universities, cities, counties, and special districts for over
-                25 years.
+                25 years, helping them build impactful partnerships across
+                public and private interests.
               </p>
 
               {/* Trust stats */}

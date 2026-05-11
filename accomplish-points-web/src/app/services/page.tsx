@@ -55,7 +55,7 @@ const signatureServices: SignatureService[] = [
     id: 'project-management',
     title: 'Project Development and Management',
     description:
-      'Move from initial ideas to clarified programs with detailed scopes of work, focused stakeholder involvement, and disciplined time and budget management.',
+      'Move from initial ideas to clarified programs with detailed scopes of work, focused stakeholder involvement, disciplined time and budget management, and practical new service delivery models.',
     bullets: [
       'Develop initial ideas into clarified programs and projects',
       'Stakeholder and agency involvement with resource identification',
@@ -69,11 +69,10 @@ const additionalServices: AdditionalService[] = [
     id: 'planning-policy',
     title: 'Plan and Policy Making',
     description:
-      'Expert support for creating policy, new frameworks, or updating existing ones, paired with technical planning assistance and community engagement.',
+      'Expert support for creating policy, new frameworks, or updating existing ones, paired with technical planning assistance, community engagement, and guidance through bureaucratic and community processes.',
     bullets: [
       'Strategic plans, strategic initiatives, special projects, pilot projects',
-      'Fiscal analysis, tradeoffs, and alternatives with metrics',
-      'Guidance through bureaucratic and community processes',
+      'Fiscal analysis, budget economics, tradeoffs, negotiations, and new service delivery models',
     ],
   },
   {
@@ -91,7 +90,7 @@ const additionalServices: AdditionalService[] = [
     id: 'interagency-coordination',
     title: 'Interagency and Public Coordination',
     description:
-      'Build and maintain the strategic alliances and community relationships essential to your mission.',
+      'Build and maintain the strategic alliances, community relationships, and impactful public-private partnerships essential to your mission.',
     bullets: [
       'Public policy alternative development and strategy',
       'Interagency agreements, letters of intent, and representation',
@@ -116,7 +115,7 @@ const engagementBenefits: Record<string, string[]> = {
     'Specific change and growth targets more directly available',
   ],
   'Internal Staff (Interim / Part-Time)': [
-    'Internal alignment with your staff and leaders',
+    'Embedded alignment with your staff and leaders',
     'Empowered delivery within your organizational framework',
     'Continuity and institutional knowledge development',
   ],
@@ -154,7 +153,9 @@ export default function ServicesPage() {
                 All services are customized and scoped for each client. Whether
                 navigating complex multi-stakeholder processes or focused
                 single-issue engagements, every partnership begins with
-                understanding your needs, your people, and your goals.
+                understanding your needs, your people, and your goals,
+                including the work of shaping impactful public-private
+                partnerships and new service delivery models.
               </p>
               <p className="mt-4 text-body font-medium text-brand-teal">
                 Mary brings a rare combination of people skills, certified

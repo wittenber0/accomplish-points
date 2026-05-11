@@ -40,6 +40,13 @@ describe('Home page', () => {
     expect(screen.getByRole('heading', { name: /how i work with you/i })).toBeInTheDocument()
   })
 
+  it('mentions impactful public-private partnerships in the hero copy', () => {
+    render(<HomePage />)
+    expect(
+      screen.getAllByText(/impactful public-private partnerships/i).length
+    ).toBeGreaterThan(0)
+  })
+
   it('contains no emojis', () => {
     const { container } = render(<HomePage />)
     expect(container.innerHTML).not.toMatch(/[\u{1F300}-\u{1F9FF}]/u)

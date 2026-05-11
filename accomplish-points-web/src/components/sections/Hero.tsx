@@ -15,8 +15,9 @@ export function Hero() {
             </h1>
             <p className="mt-6 max-w-prose text-body text-body-muted">
               Strategic planning, leadership coaching, and public services
-              consulting to help you, your team, and your organization move forward with
-              clarity and purpose.
+              consulting to help you, your team, and your organization develop
+              new service delivery models, facilitate impactful public-private
+              partnerships, and move forward with clarity and purpose.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <Button href="/contact" variant="primary">

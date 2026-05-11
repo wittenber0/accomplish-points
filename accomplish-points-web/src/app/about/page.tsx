@@ -29,7 +29,9 @@ export default function AboutPage() {
                   rebuilding civic participation, partnerships, and public
                   service. Founded by Mary Cook, the firm brings a
                   people-centered approach to every project, grounded in decades
-                  of experience across both the public and private sectors.
+                  of experience across both the public and private sectors,
+                  including facilitation of impactful public-private
+                  partnerships.
                 </p>
                 <p>
                   Mary brings consensus building, process design, project
@@ -203,9 +205,10 @@ export default function AboutPage() {
               </h3>
               <p className="mt-3 text-body leading-relaxed text-brand-slate">
                 Fluent in public and private sector dynamics, fiscal analysis,
-                and practical innovation. Mary translates economic realities
-                into clear strategies that help organizations allocate
-                resources effectively and deliver measurable outcomes.
+                budget economics, and practical innovation. Mary translates
+                economic realities into clear strategies that help
+                organizations allocate resources effectively, evaluate new
+                service delivery models, and deliver measurable outcomes.
               </p>
             </div>
           </div>

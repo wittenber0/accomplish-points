@@ -119,6 +119,11 @@ describe('Clients page', () => {
       render(<ClientsPage />)
       expect(screen.getByText(/4 Sectors/i)).toBeInTheDocument()
     })
+
+    it('mentions impactful partnerships in the hero copy', () => {
+      render(<ClientsPage />)
+      expect(screen.getByText(/impactful partnerships/i)).toBeInTheDocument()
+    })
   })
 
   describe('Client category cards', () => {

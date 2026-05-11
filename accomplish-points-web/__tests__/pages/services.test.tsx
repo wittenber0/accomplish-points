@@ -113,6 +113,13 @@ describe('Services page', () => {
         screen.getByAltText(/facilitating a workshop with seated participants/i)
       ).toBeInTheDocument()
     })
+
+    it('mentions impactful public-private partnerships in the services hero', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getAllByText(/impactful public-private partnerships/i).length
+      ).toBeGreaterThan(0)
+    })
   })
 
   describe('Engagement model cards', () => {
@@ -178,6 +185,13 @@ describe('Services page', () => {
     it('renders "Reports for USE" brand callout in written deliverables', () => {
       render(<ServicesPage />)
       expect(screen.getByText(/reports for use/i)).toBeInTheDocument()
+    })
+
+    it('references new service delivery models in planning and policy work', () => {
+      render(<ServicesPage />)
+      expect(
+        screen.getAllByText(/new service delivery models/i).length
+      ).toBeGreaterThan(0)
     })
   })
 
