@@ -50,7 +50,7 @@ export function Footer() {
         <div className="mt-8 border-t border-brand-cream/15 pt-6">
           <p className="text-caption text-brand-stone/60">
             &copy; {new Date().getFullYear()} Accomplish Points Consulting. All
-            rights reserved.
+            rights reserved. Powered by Sitewise.Me
           </p>
         </div>
       </div>

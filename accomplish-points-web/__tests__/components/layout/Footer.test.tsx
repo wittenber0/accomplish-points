@@ -56,8 +56,7 @@ describe('Footer component', () => {
     it('has light text color', () => {
       const { container } = render(<Footer />)
       const footer = container.querySelector('footer')
-      expect(footer?.className).toContain('text-brand-cream') ||
-        expect(footer?.className).toContain('text-brand-stone')
+      expect(footer?.className).toMatch(/text-brand-(cream|stone)/)
     })
   })
 

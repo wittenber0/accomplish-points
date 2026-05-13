@@ -65,6 +65,14 @@ describe('About page', () => {
       render(<AboutPage />)
       expect(screen.getByText(/impactful public-private partnerships/i)).toBeInTheDocument()
     })
+
+    it('requests a higher-quality portrait image variant', () => {
+      render(<AboutPage />)
+      const image = screen.getByAltText(/Portrait of Mary Cook/i)
+
+      expect(image).toHaveAttribute('quality', '90')
+      expect(image).toHaveAttribute('sizes', '(max-width: 1024px) 100vw, 384px')
+    })
   })
 
   describe('Anti-patterns', () => {
