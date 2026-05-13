@@ -1,6 +1,6 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 
-const sendEmailMock = vi.fn().mockResolvedValue({ id: 'test-id' })
+const sendEmailMock = vi.fn().mockResolvedValue({ data: { id: 'test-id' }, error: null })
 
 vi.mock('resend', () => ({
   Resend: vi.fn().mockImplementation(function MockResend() {
@@ -14,13 +14,16 @@ describe('Contact form server action', () => {
   beforeEach(() => {
     vi.resetModules()
     vi.clearAllMocks()
+    sendEmailMock.mockResolvedValue({ data: { id: 'test-id' }, error: null })
     process.env.RESEND_API_KEY = 're_test_key'
     delete process.env.CONTACT_EMAIL_TO
+    delete process.env.RESEND_FROM_EMAIL
   })
 
   afterEach(() => {
     delete process.env.RESEND_API_KEY
     delete process.env.CONTACT_EMAIL_TO
+    delete process.env.RESEND_FROM_EMAIL
   })
 
   it('rejects submission when honeypot field is filled', async () => {
@@ -71,8 +74,30 @@ describe('Contact form server action', () => {
     expect(result.success).toBe(true)
     expect(sendEmailMock).toHaveBeenCalledWith(
       expect.objectContaining({
+        from: 'Accomplish Points <onboarding@resend.dev>',
         to: ['mary@accomplishpoints.com'],
+        replyTo: 'jane@example.com',
         subject: 'Contact form: Jane Doe',
+      })
+    )
+  })
+
+  it('uses configured sender email when provided', async () => {
+    process.env.RESEND_FROM_EMAIL = 'Accomplish Points <noreply@accomplishpoints.com>'
+
+    const { submitContactForm } = await import('@/lib/actions')
+    const formData = new FormData()
+    formData.set('name', 'Jane Doe')
+    formData.set('email', 'jane@example.com')
+    formData.set('message', 'I need strategic planning help for my department.')
+    formData.set('website', '')
+
+    const result = await submitContactForm(formData)
+
+    expect(result.success).toBe(true)
+    expect(sendEmailMock).toHaveBeenCalledWith(
+      expect.objectContaining({
+        from: 'Accomplish Points <noreply@accomplishpoints.com>',
       })
     )
   })
@@ -103,5 +128,24 @@ describe('Contact form server action', () => {
     expect(result.success).toBe(false)
     expect(result.errors?.form).toBeDefined()
     expect(sendEmailMock).not.toHaveBeenCalled()
+  })
+
+  it('returns a form error when Resend rejects the send request', async () => {
+    sendEmailMock.mockResolvedValue({
+      data: null,
+      error: { message: 'The from address does not match a verified domain.' },
+    })
+
+    const { submitContactForm } = await import('@/lib/actions')
+    const formData = new FormData()
+    formData.set('name', 'Jane Doe')
+    formData.set('email', 'jane@example.com')
+    formData.set('message', 'I need strategic planning help for my department.')
+    formData.set('website', '')
+
+    const result = await submitContactForm(formData)
+
+    expect(result.success).toBe(false)
+    expect(result.errors?.form).toContain('Message could not be sent')
   })
 })

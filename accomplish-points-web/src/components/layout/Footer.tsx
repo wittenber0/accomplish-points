@@ -19,9 +19,6 @@ export function Footer() {
               Accomplish Points Consulting
             </p>
             <p className="mt-2 text-body-sm text-brand-stone">Bend, Oregon</p>
-            <p className="mt-1 text-caption text-brand-stone">
-              Certified Women Business Enterprise, State of Oregon
-            </p>
           </div>
 
           {/* Navigation + Contact — right-aligned cluster */}

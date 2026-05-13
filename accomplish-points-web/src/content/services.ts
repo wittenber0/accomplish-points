@@ -159,7 +159,7 @@ export const serviceGroupings: ServiceGrouping[] = [
   {
     title: 'Meeting Design and Facilitation',
     description:
-      'Meetings with Mary delivers extra-ordinary gatherings, from conference-scale sessions to focused retreats.',
+      'Meetings with Mary delivers extra-ordinary gatherings, from conference-scale sessions and workshops to focused retreats.',
     href: '/services#meeting-facilitation',
   },
   {

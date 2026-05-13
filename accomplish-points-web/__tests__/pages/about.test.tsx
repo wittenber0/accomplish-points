@@ -56,11 +56,6 @@ describe('About page', () => {
       expect(screen.getByText(/Clackamas County/)).toBeInTheDocument()
     })
 
-    it('mentions WBE certification', () => {
-      render(<AboutPage />)
-      expect(screen.getByText(/Women Business Enterprise|WBE/)).toBeInTheDocument()
-    })
-
     it('mentions Swanson Partners as prior firm', () => {
       render(<AboutPage />)
       expect(screen.getByText(/Swanson Partners/)).toBeInTheDocument()

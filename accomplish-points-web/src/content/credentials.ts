@@ -32,7 +32,7 @@ export const certifications: Certification[] = [
     issuer: 'American Planning Association',
   },
   {
-    name: 'Change Management Certified (ADKAR model)',
+    name: 'Change Management Certified (ADKAR model) — 20+ years',
     issuer: 'PROSCI',
   },
   {

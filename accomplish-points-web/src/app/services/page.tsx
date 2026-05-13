@@ -32,7 +32,7 @@ const signatureServices: SignatureService[] = [
     id: 'leadership-coaching',
     title: 'Leadership Development and Coaching',
     description:
-      'A dedicated Thought Partnership for your development and decision-making. Strategic counsel helps you refine your thinking, align your team, and move confidently toward your goals.',
+      'A dedicated thought partnership for your development and decision-making. Strategic counsel helps you refine your thinking, align your team, and move confidently toward your goals.',
     bullets: [
       'Trusted advisory for leaders navigating complex decisions',
       'DISC personality assessments with applied results',
@@ -44,7 +44,7 @@ const signatureServices: SignatureService[] = [
     title: 'Meeting Design and Facilitation',
     brandCallout: 'Meetings with Mary',
     description:
-      'Every gathering is designed for productive outcomes and meaningful participation, from conference-scale sessions to intimate retreats.',
+      'Every gathering is designed for productive outcomes and meaningful participation, from conference-scale sessions to workshops and retreats.',
     bullets: [
       'Award-winning facilitation across government and university settings',
       'Agenda design, stakeholder interviews, and public workshops',
@@ -126,8 +126,10 @@ const specialtyLabels = [
   'Real Estate Analysis',
   'Natural Resources',
   'Parks and Recreation',
+  'Higher Education',
   'Agriculture',
   'Transportation',
+  'Tourism',
   'Libraries',
   'Community Engagement',
   'Decision Making',

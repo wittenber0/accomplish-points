@@ -35,7 +35,7 @@ export const clientCategories: ClientCategory[] = [
         context: 'County government',
       },
       {
-        name: 'Clackamas County Development Agency (Economics)',
+        name: 'Clackamas County Development Agency (Economics and Tourism)',
         context: 'County government',
       },
       { name: 'Clackamas County Parks Department', context: 'County government' },

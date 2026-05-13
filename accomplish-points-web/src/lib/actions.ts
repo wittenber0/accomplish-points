@@ -72,10 +72,12 @@ export async function submitContactForm(formData: FormData): Promise<FormState> 
   try {
     const resend = new Resend(apiKey)
     const toEmail = process.env.CONTACT_EMAIL_TO ?? 'mary@accomplishpoints.com'
+    const fromEmail = process.env.RESEND_FROM_EMAIL ?? 'Accomplish Points <onboarding@resend.dev>'
 
-    await resend.emails.send({
-      from: 'Accomplish Points <noreply@accomplishpoints.com>',
+    const { error } = await resend.emails.send({
+      from: fromEmail,
       to: [toEmail],
+      replyTo: email,
       subject: `Contact form: ${name}`,
       text: [
         `Name: ${name}`,
@@ -90,8 +92,21 @@ export async function submitContactForm(formData: FormData): Promise<FormState> 
         .join('\n'),
     })
 
+    if (error) {
+      console.error('Resend email send failed', error)
+
+      return {
+        success: false,
+        errors: {
+          form: 'Message could not be sent. Please email mary@accomplishpoints.com directly.',
+        },
+      }
+    }
+
     return { success: true, message: 'Thank you. I will be in touch soon.' }
-  } catch {
+  } catch (error) {
+    console.error('Unexpected contact form send failure', error)
+
     return {
       success: false,
       errors: { form: 'Something went wrong. Please try again or email directly.' },

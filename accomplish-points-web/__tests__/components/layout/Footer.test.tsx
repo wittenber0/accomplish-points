@@ -20,11 +20,6 @@ describe('Footer component', () => {
       const year = new Date().getFullYear()
       expect(screen.getByText(new RegExp(`${year} Accomplish Points Consulting`))).toBeInTheDocument()
     })
-
-    it('renders WBE certification mention', () => {
-      render(<Footer />)
-      expect(screen.getByText(/Women Business Enterprise/i)).toBeInTheDocument()
-    })
   })
 
   describe('Navigation links', () => {

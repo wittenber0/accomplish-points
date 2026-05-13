@@ -156,13 +156,6 @@ export default function AboutPage() {
               </ul>
             </div>
           </div>
-
-          <div className="mt-10 rounded border border-brand-amber/30 bg-brand-amber/10 px-6 py-4">
-            <p className="text-body text-brand-slate">
-              Certified Women Business Enterprise (WBE), State of Oregon (No.
-              5490)
-            </p>
-          </div>
         </div>
       </section>
 
