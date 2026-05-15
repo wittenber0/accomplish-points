@@ -33,7 +33,7 @@ export function Hero() {
               alt="Mary Cook in an outdoor setting along the river in Oregon"
               fill
               className="object-cover"
-              quality={90}
+              unoptimized
               sizes="(max-width: 1024px) 100vw, 50vw"
               priority
             />

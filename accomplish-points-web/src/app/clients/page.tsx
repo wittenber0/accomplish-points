@@ -184,7 +184,7 @@ export default function ClientsPage() {
             </h3>
             <p className="mt-2 text-body-sm leading-relaxed">
               &ldquo;Getting The Most Out of Your Planning Process&rdquo; —
-              presented at professional conferences on Board development, motivation,
+              presentation focused on board development, motivation,
               and stakeholder engagement strategies.
             </p>
           </div>

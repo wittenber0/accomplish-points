@@ -55,7 +55,7 @@ export default function AboutPage() {
                   alt="Portrait of Mary Cook, consulting professional"
                   fill
                   className="object-cover object-top"
-                  quality={90}
+                  unoptimized
                   sizes="(max-width: 1024px) 100vw, 384px"
                   priority
                 />
@@ -90,17 +90,17 @@ export default function AboutPage() {
             <p>
               Mary spent approximately seventeen years at Clackamas County,
               serving as a Senior Planner across six divisions. During this
-              time she earned her AICP national certification, became Change Management
-              Certified through PROSCI, and led award-winning public
+              time she earned her AICP national certification and led award-winning public
               involvement initiatives that set new standards for community
               engagement.
             </p>
             <p>
               Following her public sector tenure, Mary founded Swanson
               Partners, LLC, an independent consultancy operating under the
-              motto &ldquo;Your Partner in Service.&rdquo; The firm delivered
+              motto &ldquo;Your Partner in Service.&rdquo; Through the firm, she delivered
               facilitation, strategic planning, and organizational development
-              services to public agencies across Oregon.
+              services to public agencies across Oregon, and became Change
+              Management Certified through PROSCI.
             </p>
             <p>
               Today, Mary leads Accomplish Points Consulting from Bend, Oregon,

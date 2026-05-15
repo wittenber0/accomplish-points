@@ -49,7 +49,7 @@ export default function ContactPage() {
                 <h2 className="text-body-sm font-body font-semibold uppercase tracking-widest text-body-muted">
                   Phone
                 </h2>
-                <p className="mt-1 text-body font-body text-brand-slate">(503)806-1661</p>
+                <p className="mt-1 text-body font-body text-brand-slate">(503)720-4709</p>
               </div>
             </div>
           </div>

@@ -66,11 +66,11 @@ describe('About page', () => {
       expect(screen.getByText(/impactful public-private partnerships/i)).toBeInTheDocument()
     })
 
-    it('requests a higher-quality portrait image variant', () => {
+    it('bypasses optimization for the portrait image', () => {
       render(<AboutPage />)
       const image = screen.getByAltText(/Portrait of Mary Cook/i)
 
-      expect(image).toHaveAttribute('quality', '90')
+      expect(image).toHaveAttribute('unoptimized', '')
       expect(image).toHaveAttribute('sizes', '(max-width: 1024px) 100vw, 384px')
     })
   })

@@ -1,10 +1,10 @@
 import { CredentialBadge } from '@/components/ui/CredentialBadge'
 
 const credentialLabels = [
-  'AICP',
-  'PROSCI Change Management',
-  'UCLA Graduate Training',
+  'M.A. Political Science, UCLA',
   'B.A. Political Science, UCLA',
+  'PROSCI Change Management',
+  'AICP',
   '25+ Years Experience',
 ]
 

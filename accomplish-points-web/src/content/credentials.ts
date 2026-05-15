@@ -28,11 +28,11 @@ export const education: Education[] = [
 
 export const certifications: Certification[] = [
   {
-    name: 'A.I.C.P. — American Institute of Certified Planners',
+    name: 'A.I.C.P. — American Institute of Certified Planners — 20+ years',
     issuer: 'American Planning Association',
   },
   {
-    name: 'Change Management Certified (ADKAR model) — 20+ years',
+    name: 'Change Management Certified (ADKAR model)',
     issuer: 'PROSCI',
   },
   {

@@ -35,11 +35,11 @@ describe('Hero section', () => {
     expect(img || placeholder).toBeTruthy()
   })
 
-  it('requests a higher-quality hero image variant', () => {
+  it('bypasses optimization for the hero portrait image', () => {
     render(<Hero />)
     const image = screen.getByAltText(/Mary Cook in an outdoor setting/i)
 
-    expect(image).toHaveAttribute('quality', '90')
+    expect(image).toHaveAttribute('unoptimized', '')
     expect(image).toHaveAttribute('sizes', '(max-width: 1024px) 100vw, 50vw')
   })
 })

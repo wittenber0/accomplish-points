@@ -167,7 +167,7 @@ export default function ServicesPage() {
             </div>
             <div className="relative aspect-[6/5] overflow-hidden rounded">
               <Image
-                src="/images/work/facilitation-workshop.jpg"
+                src="/images/work/molalla-summit-2.jpeg"
                 alt="Mary Cook facilitating a workshop with seated participants"
                 fill
                 className="object-cover"
