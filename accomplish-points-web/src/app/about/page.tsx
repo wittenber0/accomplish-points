@@ -55,7 +55,6 @@ export default function AboutPage() {
                   alt="Portrait of Mary Cook, consulting professional"
                   fill
                   className="object-cover object-top"
-                  unoptimized
                   sizes="(max-width: 1024px) 100vw, 384px"
                   priority
                 />
